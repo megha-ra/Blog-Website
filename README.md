@@ -44,7 +44,7 @@ nodemon server.js
 ## Usage Instruction:
 
 1. **User Registration and Login**:
-    - Sign up for a new account and log in with your credentials.
+    - Sign up for a new account or log in with your credentials.
 
 2. **Creating and Editing Posts**:
     - Create new posts or edit existing ones.

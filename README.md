@@ -2,7 +2,7 @@
 
 ## Overview
 
-This blog website is a dynamic and interactive platform where users can create, read, edit, and comment on blog posts. The site also supports uploading photos, searching content, and other engaging features to enhance the user experience.
+This blog website is a dynamic and interactive platform where users can create, read, edit, and comment on blog posts. The site also supports uploading photos, searching contents, and other engaging features to enhance the user experience.
 ## Features
 
 - **User Authentication**: Secure sign-up and login functionality for personalized user experience.
